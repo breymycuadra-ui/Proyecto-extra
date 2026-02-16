@@ -1,0 +1,21 @@
+1. Inicio del programa y definición del precio base (Q2,000.00) y los porcentajes de recargo (10%,20%,30% + lo mismo por conyugue + 20% por cada hijo + 35% por la cantidad de propiedades + 5% sobre el salario ingresado.
+2. Se inicia el ciclo que permite repetir el proceso hasta que el usuario decida salir.
+3. Se Solicitan los datos personales (nombre y edad).
+4. Se debe validar que sea mayor de edad y si es menor de 18 años, se detiene la cotización y vuelve al inicio.
+5. Pregunta sobre estado civil con respuesta "si" o "no" de manera obligatoria.
+6. Se solicita la de edad del cónyuge únicamente si la respuesta anterior fue "si".
+7. Se pregunta sobre hijos con validación obligatoria de respuesta "si" o "no".
+8. Pregunta sobre la cantidad de hijos solamente si la respuesta anterior fue "si".
+9. Se pregunta si cuenta con propiedades con respuesta "si" o "no" obligatoria.
+10. Se pregunta por la cantidad de propiedades si la respuesta anterior fue "si".
+11. Se pregunta del salario mensual del asegurado.
+12. Se calculan los recargos por edad del asegurado según los rangos.
+13. Se calculan los recargo por edad del cónyuge según rangos del asegurado (solamente con la respuesta Si).
+14. Se calculan recargos por hijos multiplicando el 20% del precio base por cada hijo.
+15. Calcula el recargo por propiedades multiplicando el 35% del precio base por cada una.
+16. Cálculo de recargo por salario obteniendo el 5% del salario mensual ingresado.
+17. Se suman de todos los recargos calculados al precio base de Q2,000.00.
+18. Se presentan los resultados mediante alertas con el nombre, el recargo total y el precio final.
+19. Se muestra una alerta para decidir si se realiza otra cotización o se escribe "SALIR".
+20. Si desea otra cotización se reinician los valores de recargos y precio final para una nueva cotización .
+21. Si escribe salir se muestra Fin del programa con un mensaje de despedida.

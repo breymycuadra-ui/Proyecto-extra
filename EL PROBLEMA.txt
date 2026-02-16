@@ -1,0 +1,3 @@
+Se utilizo el programa de cotización del proyecto final como base, en el cual solamente realizaba una sola cotización y finalizaba el programa, El problema es que se debe mejorar con un bucle que en el que inicie el programa y al finalizar se consulta si desea realizar una nueva cotización o escribe salir para terminar el bucle.
+
+Así mismo integrar más variables que son: si tiene propiedades y la cantidad de ellas con un 35% de recargo del valor anteriormente establecido de los Q2,000 y que el usuario ingrese la cantidad mensual de su salario esté con recargos del 5% sobre la cantidad del salario. sacar estos porcentajes y sumarlos al valor final.
